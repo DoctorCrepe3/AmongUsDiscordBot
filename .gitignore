@@ -1,0 +1,6 @@
+.env
+node_modules
+config.json
+AUInfo.json
+lobbies.json
+discordInfo.json
