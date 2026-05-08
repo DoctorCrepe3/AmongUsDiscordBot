@@ -1,0 +1,20 @@
+{
+  "name": "amongusdiscordbot",
+  "version": "1.0.0",
+  "description": "A bot for managing an among us modded discord server",
+  "homepage": "https://github.com/DoctorCrepe3/AmongUsDiscordBot#readme",
+  "bugs": {
+    "url": "https://github.com/DoctorCrepe3/AmongUsDiscordBot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorCrepe3/AmongUsDiscordBot.git"
+  },
+  "license": "ISC",
+  "author": "DoctorCrepe",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
